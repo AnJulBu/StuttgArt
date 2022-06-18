@@ -1,0 +1,44 @@
+<Destinations>
+ 
+	<Destination>
+    <Id>"rocks"</Id>  
+    <Description>
+  	Es ist nicht alles Gold, was glänzt!
+	  </Description>
+    <Latitude>"48.520469450626436"</Latitude>
+    <Longitude>"9.053329285501965"</Longitude>
+    <Image>a</Image>
+	</Destination>
+  
+  <Destination>
+    <Id>"stone"</Id>
+    <Description>
+      This is a robbery
+    </Description>
+    <Latitude>"42.520469450626436"</Latitude>
+    <Longitude>"92.053329285501965"</Longitude>
+    <Image>a</Image>
+  </Destination>
+  
+  <Destination>
+    <Id>"sisser"</Id>
+    <Description>
+      This is a robbery too
+    </Description>
+    <Latitude>"2.520469450626436"</Latitude>
+    <Longitude>"2.053329285501965"</Longitude>
+    <Image>a</Image>
+  </Destination>
+
+  <Destination>
+    <Id>"mountin  "</Id>
+    <Description>
+      This is no robbery
+    </Description>
+    <Latitude>"4.520469450626436"</Latitude>
+    <Longitude>"2.053329285501965"</Longitude>
+    <Image>a</Image>
+  </Destination>
+
+
+</Destinations>

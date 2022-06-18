@@ -1,0 +1,188 @@
+<tour id="Tour3">
+  <einführungGeschichte>Wir starten den Testlauf.</einführungGeschichte>
+  <artposition id="bib" geoId="11" lat="48.525547435766384" long="9.061273918425506" tourId="1/6">   
+    <einzeilerKompass> lesen ist wichtig </einzeilerKompass>
+    <hinweisGedicht1> Goethe verließ am Freytag mit Paul
+und einem Weber den Keller im Eichendorff,
+und schillerte auf dem Lichtenberg im Grass
+bis er den Morgenstern sah.
+Später ging er Heym mit einem Hauptmann
+der einen Hochhuth trug,</hinweisGedicht1>
+    <hinweisGedicht2> 
+als sie unterwegs einen Mann mit einem Zweig trafen,
+der Frisch aussah, sich im Storm bewegte
+und der im Busch gewachsen war.
+Unter einer Fichte saß ein Raabe,
+der Körner pickte,
+und den sie mit einem Klopstock vertrieben.</hinweisGedicht2>
+    <img>bild vom bib</img>
+    <!--name von bild-->
+    <werkInfos1> Johann Christian Friedrich Hölderlin (* 20. März 1770 in Lauffen am Neckar, Herzogtum Württemberg; † 7. Juni 1843 in Tübingen, Königreich Württemberg) war ein deutscher Dichter, der zu den bedeutendsten Lyrikern seiner Zeit zählt. Sein Werk lässt sich innerhalb der deutschen Literatur um 1800 weder der Weimarer Klassik noch der Romantik zuordnen. </werkInfos1>
+    <werkInfos2>Friedrich Hölderlin war der Sohn des Klosterhofmeisters Heinrich Friedrich Hölderlin (1736–1772) und dessen Ehefrau, der Pfarrerstochter Johanna Christiana Hölderlin, geb. Heyn (1748–1828). Die Herkunftsfamilien der Eltern gehörten dem gesellschaftlichen Stand der Ehrbarkeit an.</werkInfos2>
+    <geschichte1>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.</geschichte1>
+    <geschichte2>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.
+
+„Wo ist eigentlich Ludwig?“, fragte Susi. „Hmm… bisher habe ich ihn noch nicht entdeckt“, entgegnete das kleine Erdmännchen. Die zwei Freunde machten sich auf die Suche nach ihrem Freund und schauten dabei gewissenhaft hinter jedem Busch, hinter jeder Hütte und auch hinter dem Schulgebäude nach.
+
+</geschichte2>
+  </artposition>
+
+  <artposition id="hölderlin" geoId="12" lat="48.52505351621312" long="9.058153306659108"
+    tourId="2/6">   
+    <einzeilerKompass> ein künstler und schreiber </einzeilerKompass>
+    <hinweisGedicht1> Goethe verließ am Freytag mit Paul
+und einem Weber den Keller im Eichendorff,
+und schillerte auf dem Lichtenberg im Grass
+bis er den Morgenstern sah.
+Später ging er Heym mit einem Hauptmann
+der einen Hochhuth trug,</hinweisGedicht1>
+    <hinweisGedicht2> 
+als sie unterwegs einen Mann mit einem Zweig trafen,
+der Frisch aussah, sich im Storm bewegte
+und der im Busch gewachsen war.
+Unter einer Fichte saß ein Raabe,
+der Körner pickte,
+und den sie mit einem Klopstock vertrieben.</hinweisGedicht2>
+    <img>bild hölderlin</img>
+    <werkInfos1> Johann Christian Friedrich Hölderlin (* 20. März 1770 in Lauffen am Neckar, Herzogtum Württemberg; † 7. Juni 1843 in Tübingen, Königreich Württemberg) war ein deutscher Dichter, der zu den bedeutendsten Lyrikern seiner Zeit zählt. Sein Werk lässt sich innerhalb der deutschen Literatur um 1800 weder der Weimarer Klassik noch der Romantik zuordnen.</werkInfos1>
+    <werkInfos2> Friedrich Hölderlin war der Sohn des Klosterhofmeisters Heinrich Friedrich Hölderlin (1736–1772) und dessen Ehefrau, der Pfarrerstochter Johanna Christiana Hölderlin, geb. Heyn (1748–1828). Die Herkunftsfamilien der Eltern gehörten dem gesellschaftlichen Stand der Ehrbarkeit an. </werkInfos2>
+    <geschichte1>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.</geschichte1>
+    <geschichte2>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.
+
+„Wo ist eigentlich Ludwig?“, fragte Susi. „Hmm… bisher habe ich ihn noch nicht entdeckt“, entgegnete das kleine Erdmännchen. Die zwei Freunde machten sich auf die Suche nach ihrem Freund und schauten dabei gewissenhaft hinter jedem Busch, hinter jeder Hütte und auch hinter dem Schulgebäude nach.
+
+</geschichte2>
+  </artposition>
+
+  <artposition id="Wurstküche" geoId="13" lat="48.521772530451145" long="9.057153988185698"
+    tourId="3/6">   
+    <einzeilerKompass> hier ess ich gerne </einzeilerKompass>
+    <hinweisGedicht1> Goethe verließ am Freytag mit Paul
+und einem Weber den Keller im Eichendorff,
+und schillerte auf dem Lichtenberg im Grass
+bis er den Morgenstern sah.
+Später ging er Heym mit einem Hauptmann
+der einen Hochhuth trug,</hinweisGedicht1>
+    <hinweisGedicht2> 
+als sie unterwegs einen Mann mit einem Zweig trafen,
+der Frisch aussah, sich im Storm bewegte
+und der im Busch gewachsen war.
+Unter einer Fichte saß ein Raabe,
+der Körner pickte,
+und den sie mit einem Klopstock vertrieben.</hinweisGedicht2>
+    <img>bild von wurstküche</img>
+    <werkInfos1>Johann Christian Friedrich Hölderlin (* 20. März 1770 in Lauffen am Neckar, Herzogtum Württemberg; † 7. Juni 1843 in Tübingen, Königreich Württemberg) war ein deutscher Dichter, der zu den bedeutendsten Lyrikern seiner Zeit zählt. Sein Werk lässt sich innerhalb der deutschen Literatur um 1800 weder der Weimarer Klassik noch der Romantik zuordnen. </werkInfos1>
+    <werkInfos2>Friedrich Hölderlin war der Sohn des Klosterhofmeisters Heinrich Friedrich Hölderlin (1736–1772) und dessen Ehefrau, der Pfarrerstochter Johanna Christiana Hölderlin, geb. Heyn (1748–1828). Die Herkunftsfamilien der Eltern gehörten dem gesellschaftlichen Stand der Ehrbarkeit an. </werkInfos2>
+    <geschichte1>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.</geschichte1>
+    <geschichte2>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.
+
+„Wo ist eigentlich Ludwig?“, fragte Susi. „Hmm… bisher habe ich ihn noch nicht entdeckt“, entgegnete das kleine Erdmännchen. Die zwei Freunde machten sich auf die Suche nach ihrem Freund und schauten dabei gewissenhaft hinter jedem Busch, hinter jeder Hütte und auch hinter dem Schulgebäude nach.
+
+</geschichte2>
+  </artposition>
+
+  <artposition id="Stadtmuseum" geoId="14" lat="48.52112668912766" long="9.05339855074675"
+    tourId="4/6">   
+    <einzeilerKompass> hier geh ich gern hin </einzeilerKompass>
+    <hinweisGedicht1> Goethe verließ am Freytag mit Paul
+und einem Weber den Keller im Eichendorff,
+und schillerte auf dem Lichtenberg im Grass
+bis er den Morgenstern sah.
+Später ging er Heym mit einem Hauptmann
+der einen Hochhuth trug,</hinweisGedicht1>
+    <hinweisGedicht2> 
+als sie unterwegs einen Mann mit einem Zweig trafen,
+der Frisch aussah, sich im Storm bewegte
+und der im Busch gewachsen war.
+Unter einer Fichte saß ein Raabe,
+der Körner pickte,
+und den sie mit einem Klopstock vertrieben.</hinweisGedicht2>
+    <img>bild vom stadtmuseum</img>
+    <werkInfos1> Johann Christian Friedrich Hölderlin (* 20. März 1770 in Lauffen am Neckar, Herzogtum Württemberg; † 7. Juni 1843 in Tübingen, Königreich Württemberg) war ein deutscher Dichter, der zu den bedeutendsten Lyrikern seiner Zeit zählt. Sein Werk lässt sich innerhalb der deutschen Literatur um 1800 weder der Weimarer Klassik noch der Romantik zuordnen.</werkInfos1>
+    <werkInfos2> Friedrich Hölderlin war der Sohn des Klosterhofmeisters Heinrich Friedrich Hölderlin (1736–1772) und dessen Ehefrau, der Pfarrerstochter Johanna Christiana Hölderlin, geb. Heyn (1748–1828). Die Herkunftsfamilien der Eltern gehörten dem gesellschaftlichen Stand der Ehrbarkeit an.</werkInfos2>
+    <geschichte1>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.</geschichte1>
+    <geschichte2>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.
+
+„Wo ist eigentlich Ludwig?“, fragte Susi. „Hmm… bisher habe ich ihn noch nicht entdeckt“, entgegnete das kleine Erdmännchen. Die zwei Freunde machten sich auf die Suche nach ihrem Freund und schauten dabei gewissenhaft hinter jedem Busch, hinter jeder Hütte und auch hinter dem Schulgebäude nach.
+</geschichte2>
+  </artposition>
+
+  <artposition id="georg" geoId="15" lat="48.52033868294636" long="9.05583686514966"
+    tourId="5/6">   
+    <einzeilerKompass> beten und sein </einzeilerKompass>
+    <hinweisGedicht1> Zu eurer Mädchen Schlafgemach
+Geht durch die Kirche nur der Weg!" so sprach
+Der Pastor Hildebrand;
+Allein er schlich des Junkers Köchin nach,
+Bis umgekehrt er durch ihr Schlafgemach,
+Den Weg zur Kirche fand. </hinweisGedicht1>
+    <hinweisGedicht2> 22222222222222222222
+Geht durch die Kirche nur der Weg!" so sprach
+Der Pastor Hildebrand;
+Allein er schlich des Junkers Köchin nach,
+Bis umgekehrt er durch ihr Schlafgemach,
+Den Weg zur Kirche fand.  </hinweisGedicht2>
+
+    <img>bild vom georg</img>
+    <werkInfos1> Johann Christian Friedrich Hölderlin (* 20. März 1770 in Lauffen am Neckar, Herzogtum Württemberg; † 7. Juni 1843 in Tübingen, Königreich Württemberg) war ein deutscher Dichter, der zu den bedeutendsten Lyrikern seiner Zeit zählt. Sein Werk lässt sich innerhalb der deutschen Literatur um 1800 weder der Weimarer Klassik noch der Romantik zuordnen.</werkInfos1>
+    <werkInfos2> Friedrich Hölderlin war der Sohn des Klosterhofmeisters Heinrich Friedrich Hölderlin (1736–1772) und dessen Ehefrau, der Pfarrerstochter Johanna Christiana Hölderlin, geb. Heyn (1748–1828). Die Herkunftsfamilien der Eltern gehörten dem gesellschaftlichen Stand der Ehrbarkeit an.</werkInfos2>
+    <geschichte1>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.</geschichte1>
+    <geschichte2>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.
+
+„Wo ist eigentlich Ludwig?“, fragte Susi. „Hmm… bisher habe ich ihn noch nicht entdeckt“, entgegnete das kleine Erdmännchen. Die zwei Freunde machten sich auf die Suche nach ihrem Freund und schauten dabei gewissenhaft hinter jedem Busch, hinter jeder Hütte und auch hinter dem Schulgebäude nach.
+
+</geschichte2>
+  </artposition>
+
+  <artposition id="neckarinsel" geoId="16" lat="48.51860459294988" long="9.05555722525524"
+    tourId="6/6">   
+    <einzeilerKompass> chillen und Tübingen. Sehr schön. </einzeilerKompass>
+    <hinweisGedicht1> Goethe verließ am Freytag mit Paul
+und einem Weber den Keller im Eichendorff,
+und schillerte auf dem Lichtenberg im Grass
+bis er den Morgenstern sah.
+Später ging er Heym mit einem Hauptmann
+der einen Hochhuth trug,</hinweisGedicht1>
+    <hinweisGedicht2> 
+als sie unterwegs einen Mann mit einem Zweig trafen,
+der Frisch aussah, sich im Storm bewegte
+und der im Busch gewachsen war.
+Unter einer Fichte saß ein Raabe,
+der Körner pickte,
+und den sie mit einem Klopstock vertrieben.</hinweisGedicht2>
+    <img>bild vom neckarinsel</img>
+    <werkInfos1>Johann Christian Friedrich Hölderlin (* 20. März 1770 in Lauffen am Neckar, Herzogtum Württemberg; † 7. Juni 1843 in Tübingen, Königreich Württemberg) war ein deutscher Dichter, der zu den bedeutendsten Lyrikern seiner Zeit zählt. Sein Werk lässt sich innerhalb der deutschen Literatur um 1800 weder der Weimarer Klassik noch der Romantik zuordnen. </werkInfos1>
+    <werkInfos2> Friedrich Hölderlin war der Sohn des Klosterhofmeisters Heinrich Friedrich Hölderlin (1736–1772) und dessen Ehefrau, der Pfarrerstochter Johanna Christiana Hölderlin, geb. Heyn (1748–1828). Die Herkunftsfamilien der Eltern gehörten dem gesellschaftlichen Stand der Ehrbarkeit an. </werkInfos2>
+    <geschichte1>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.</geschichte1>
+    <geschichte2>An einem heißen Vormittag spielten Löwe Ludwig, Susi das Zebra und Gunnar das Erdmännchen auf dem Pausenhof Verstecken. „Hey Susi, ich kann deine Streifen sehen!“, kicherte Gunnar, als er Susi hinter einem kargen Strauch entdeckte. 
+
+„Das ist ja wirklich langweilig, wenn du immer gewinnst“, rief Susi etwas eingeschnappt aus ihrem Versteck. „Ich gewinne ja gar nicht immer!“, entgegnete Gunnar amüsiert. Dabei schwang etwas Stolz in seiner Stimme mit.
+
+„Wo ist eigentlich Ludwig?“, fragte Susi. „Hmm… bisher habe ich ihn noch nicht entdeckt“, entgegnete das kleine Erdmännchen. Die zwei Freunde machten sich auf die Suche nach ihrem Freund und schauten dabei gewissenhaft hinter jedem Busch, hinter jeder Hütte und auch hinter dem Schulgebäude nach.
+
+</geschichte2>
+  </artposition>
+
+</tour>

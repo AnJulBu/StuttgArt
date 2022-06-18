@@ -1,0 +1,35 @@
+<tour id="Tour3">
+ 
+	<artposition id="liebe" lat="48.778443" long="9.177146" >		
+		<desc>hier ist Startpunkt dieser Route</desc>
+		<img>kein bild</img>
+		<img_desc>keine bildbeschriftung vom minotauru</img_desc>
+	</artposition>
+
+	<artposition id="hass" lat="48.778963" long="9.175982">
+		<desc>Stadtzeichen Stuttgart (abstrakte Figur)</desc>
+		<img>bild</img>
+		<img_desc> Bildbeschreibung 2</img_desc>
+	</artposition>
+
+	<artposition id="mops" lat="48.781236" long="9.173203">
+		<desc>12 Kanten, Schritt ins Freie, Positiv-Negativ, Kubische Intergration</desc>
+		<img>bild(er)</img>
+		<img_desc> beschr bilder</img_desc>
+	</artposition>
+
+	<artposition id="object" lat="48.783515" long="9.190133" >
+		<desc>???</desc>
+		<img>bild</img>
+		<img_desc>beschriftung bild</img_desc>
+	</artposition>
+
+	<artposition id="crinkly" lat="48.778146" long="9.177988">
+		<desc>kinetische Figur vor Museum Crinkly avec disque rouge</desc>
+		<img>crinkly bild</img>
+		<img_desc>beschriftung bild</img_desc>
+	</artposition>
+
+
+
+</tour>

@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: d07447b9253d62642ac606d0a53ae481
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - BreezeSans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 304f364583ed75e44a6b97cc3b48a74e, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
