@@ -8,13 +8,13 @@ public class ArtInfoScreen : MonoBehaviour
     [SerializeField]
     private Text text;
 
-    public Sprite sprite;
-    public SpriteRenderer spriteRenderer;
+    public Image image;
+   
     public void SetContent(Destination destination)
     {
           text.text = destination.ArtInfo1;
-           sprite  = destination.Image;
-        spriteRenderer.sprite = sprite;
+           image.sprite  = destination.Image;
+       
     }
 
 }

@@ -38,9 +38,11 @@ public class TourManager : MonoBehaviour
     public DestinationEvent onSetDestination;
     public DestinationEvent onDestinationReached;
     public UnityEvent lastDestinationReached;
-    [Header("Test")]
+    // kompletter Header Test muss auskommentiert werden
+    /*[Header("Test")]
     [Range(0,50)]
     public float testDistance = 50;
+    *///bis hier
     [Header("Content")]
     [SerializeField]
     private List<Sprite> images;
@@ -58,7 +60,7 @@ public class TourManager : MonoBehaviour
                 
                 
             }
-            tours.Add(xmlReader.ReadXml(xml));
+            tours.Add(tour);
 
         }
         
@@ -84,12 +86,15 @@ public class TourManager : MonoBehaviour
             currentTour.destinations.RemoveAt(0);
             onSetDestination.Invoke(currentDestination);
         }
-        // Check distance to destinations
-        //  float distance = mapHandler.GetDistance(currentDestination.location);
-        float distance = testDistance;
+        // Check distance to destinations  muss einkommentiert werden
+         float distance = mapHandler.GetDistance(currentDestination.location);
+        //muss auskommentiert werden
+         //float distance = testDistance;
+        //bis hier 
         if (distance < destinationRange)
-        {
-            testDistance = 50;
+        {   //TestDistance muss auskommentiert werden
+            //testDistance = 50;
+            // bis hier 
             onDestinationReached.Invoke(currentDestination);
         //    currentDestination = null;
         }
@@ -97,6 +102,7 @@ public class TourManager : MonoBehaviour
         {
             // Trigger Hugo 
             hugo.show();
+           
 
         }
         else
@@ -133,8 +139,14 @@ public class TourManager : MonoBehaviour
         tourAdded = true;
         onStartTour.Invoke(tour);
     }
-    public void setTest(float value)
+
+    // setTest muss auskommentiert werden
+    /*public void setTest(float value)
     {
         testDistance = value;
+    } */// bis hier
+    public void setTourAdded()
+    {
+        this.tourAdded = false;
     }
 }

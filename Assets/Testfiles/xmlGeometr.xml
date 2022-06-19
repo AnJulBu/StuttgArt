@@ -11,13 +11,12 @@ Doch glaube nicht, dass es einfach wird! Einige der Objekte sind wahre Meister d
   <artposition id="polylitGeo" geoId="1" lat="48.778443" long="9.177146"
     tourId="1/5">   
     <einzeilerKompass>„Sieh mir in die Augen und erkenne dich selbst!“</einzeilerKompass>
-    <hinweisGedicht1>aaa</hinweisGedicht1>
+    <hinweisGedicht1>hmm tut mir leid, hier habe ich leider keinen Tipp für dich!</hinweisGedicht1>
     <!--<hinweisGedicht2> zum besseren Finden2 </hinweisGedicht2>-->
-    <img>Tour 2 - Objekt 1</img>
+    <img>21</img>
     <werkInfos1>Hier handelt es sich um eine vom Berliner Künstler Nicolai Carsten (1965*) um das Jahr 2006 geschaffene, interaktive 10m hohe Skulptur, die durch ihre reflektierenden Flächen bei Tag auffällt.  Internationale Bekanntheit erlangte der Künstler durch seine Teilnahme an der 49ten und 50ten Bienale in Venedig in den Jahren 2001 und 2003. Seit 2015 unterrichtet der Künstler als Professor für time-based media an der Hochschule für Bildende Künste in Dresden.</werkInfos1>
-    <werkInfos2>aaa</werkInfos2>
-    <geschichte1>Schau an, schau an. Hier sehe ich schon das erste Werk aus unserer Sammlung, welches sich letzte Nacht an mir vorbei geschlichen hat! Erkennst du es auch? Wie die Flunder am Meeresboden schafft es auch dieses seltene Exemplar, beinahe nahtlos mit seiner Umgebung zu verschmelzen. Nur geübten Augen wie den meinen ist es möglich, die spiegelhafte Fassade des Polyliten zu durchdringen und sein wahres Ich zu erkennen.</geschichte1>
-    <geschichte2> Oder ist es doch eher das eigene wahre Ich, welches man erkennt? Eins ist gewiss: Dieses Kunstwerk hat sich zu sehr auf seine Gabe verlassen, jeden mit seiner schimmernden Oberfläche in die Irre zu führen, und hat es sich deshalb direkt vor dem Eingang des Museums gemütlich gemacht. Wie dreist! Ich befürchte aber, dass es uns nicht alle Objekte so leicht machen werden…</geschichte2>
+    <geschichte1>Schau an, schau an. Hier sehe ich schon das erste Werk aus unserer Sammlung, welches sich letzte Nacht an mir vorbei geschlichen hat! Erkennst du es auch? Wie die Flunder am Meeresboden schafft es auch dieses seltene Exemplar, beinahe nahtlos mit seiner Umgebung zu verschmelzen. Nur geübten Augen wie den meinen ist es möglich, die spiegelhafte Fassade des Polyliten zu durchdringen und sein wahres Ich zu erkennen.
+    Oder ist es doch eher das eigene wahre Ich, welches man erkennt? Eins ist gewiss: Dieses Kunstwerk hat sich zu sehr auf seine Gabe verlassen, jeden mit seiner schimmernden Oberfläche in die Irre zu führen, und hat es sich deshalb direkt vor dem Eingang des Museums gemütlich gemacht. Wie dreist! Ich befürchte aber, dass es uns nicht alle Objekte so leicht machen werden…</geschichte1>
     
   </artposition>
 
@@ -28,17 +27,13 @@ Doch glaube nicht, dass es einfach wird! Einige der Objekte sind wahre Meister d
 macht das Verstecken mir nicht leicht,
 doch tarn‘ ich mich schlicht als Hüter der Norm,
 da manch einer davon mir durchaus gleicht.
-
-So kann ich entgehen der Eule Blick,
-sie wird mich nie entdecken,
-ich stehe hier still und lenke todschick, 
-die Menschen mit meinen Ecken.
+	
+So kann ich entgehen der Eule Blick, sie wird mich nie entdecken, ich stehe hier still und lenke todschick, die Menschen mit meinen Ecken.
 </hinweisGedicht1>
-    <img>Tour 2 - Objekt 2</img>
+    <img>22</img>
     <werkInfos1>Dieses 6m hohe Werk des deutschen Künstlers Otto Herbert Hajek wurde im Jahr 1969 zunächst aus Holz, im Jahr 1974 dann aus bemaltem Stahl zu einem Stadtzeichen Stuttgarts. Seinen ursprünglichen Standort auf dem kleinen Schlossplatz hat es im Jahr 2005 hinter sich gelassen und zog um auf die Theodor-Heuss-Straße, wo es seither nahe des Kunstmuseums Stuttgart stolz residiert.</werkInfos1>
-    <werkInfos2>aaa</werkInfos2>
-    <geschichte1>Huch, wenn das nicht das Stadtzeichen Stuttgart ist! Fast hätte ich es nicht erkannt, so zwischen all den Ampeln und Straßenschildern. Aber genau das muss wohl sein Plan gewesen sein! Und nun ja, ein wenig fällt es doch auf, mit all seinen bunten Farben und seiner stolzen Gestalt. Vielleicht wollte es ja als eine Art Stoppschild durchgehen?</geschichte1>
-    <geschichte2>Oder soll seine pfeilhafte Form den Fußgängern die Richtung anzeigen, aus welcher der Verkehr kommt? Naja, immerhin wollte es sich wohl nützlich machen! Vielleicht sollten wir es unter diesen Umständen sogar hier verweilen lassen, in seinem neuen Zuhause. Es scheint sich ja richtig wohlzufühlen! Also lieber auf zum nächsten Objekt!</geschichte2>
+    <geschichte1>Huch, wenn das nicht das Stadtzeichen Stuttgart ist! Fast hätte ich es nicht erkannt, so zwischen all den Ampeln und Straßenschildern. Aber genau das muss wohl sein Plan gewesen sein! Und nun ja, ein wenig fällt es doch auf, mit all seinen bunten Farben und seiner stolzen Gestalt. Vielleicht wollte es ja als eine Art Stoppschild durchgehen?
+Oder soll seine pfeilhafte Form den Fußgängern die Richtung anzeigen, aus welcher der Verkehr kommt? Naja, immerhin wollte es sich wohl nützlich machen! Vielleicht sollten wir es unter diesen Umständen sogar hier verweilen lassen, in seinem neuen Zuhause. Es scheint sich ja richtig wohlzufühlen! Also lieber auf zum nächsten Objekt!</geschichte1>
     
   </artposition>
 
@@ -54,12 +49,11 @@ Ich war stets ein Schatten meiner selbst,
 egal, wie viel ich mich reflektiere,
 doch hier im Park, ja mir gefällt‘s,
 ich bin froh, dass ich existiere!</hinweisGedicht1>
-    <!--<hinweisGedicht2> zum besseren Finden2 </hinweisGedicht2>-->
-    <img>Tour 2 - Objekt 3</img>
+    
+    <img>23</img>
     <werkInfos1>Das Kunstwerk Positiv-Negativ stammt vom deutschen Künstler Wolfgang Nestler und entstand 1977 im Rahmen der Stuttgarter Bundesgartenschau. Es stellt zwei rostfarbene Stahlplatten dar, aus welchen mehrere Formen herausgeschnitten wurden. Diese liegen am unteren Rand des Kunstwerkes, wodurch es so scheint, als würde sich dieses auf dem Boden selbst spiegeln – einmal als Positiv und einmal als Negativ.</werkInfos1>
-    <werkInfos2>aaa</werkInfos2>
-    <geschichte1>Ohje, hier gibt es ja gleich mehrere Kunstwerke auf engstem Raum! Ich erkenne sofort den Schritt ins Freie, die Kubische Integration und dort hinten sehe ich auch den 12 Kanten! Doch das Kunstwerk, welches wir suchen, heißt Positiv-Negativ und hat sich wohl besonders gut versteckt! Es ist bekannt für seine Selbstreflexion und bildet einige sehr markante Formen ab, die für jeden etwas anderes bedeuten.</geschichte1>
-    <geschichte2>Glaub mir, ich habe schon so vielen Interpretationen im Museum gelauscht! Manch einer spricht vom Mathe-Unterricht, ein anderer denkt an irgendwelche Controller und seit einiger Zeit höre ich nun andauernd von so einer komischen neuen Serie, an welche das Kunstwerk die Leute erinnert. Was es wohl den Leuten hier im Park für neue Assoziationen schenken mag? Lassen wir es doch noch eine Weile hier und finden es heraus.</geschichte2>
+    <geschichte1>Ohje, hier gibt es ja gleich mehrere Kunstwerke auf engstem Raum! Ich erkenne sofort den Schritt ins Freie, die Kubische Integration und dort hinten sehe ich auch den 12 Kanten! Doch das Kunstwerk, welches wir suchen, heißt Positiv-Negativ und hat sich wohl besonders gut versteckt! Es ist bekannt für seine Selbstreflexion und bildet einige sehr markante Formen ab, die für jeden etwas anderes bedeuten.
+Glaub mir, ich habe schon so vielen Interpretationen im Museum gelauscht! Manch einer spricht vom Mathe-Unterricht, ein anderer denkt an irgendwelche Controller und seit einiger Zeit höre ich nun andauernd von so einer komischen neuen Serie, an welche das Kunstwerk die Leute erinnert. Was es wohl den Leuten hier im Park für neue Assoziationen schenken mag? Lassen wir es doch noch eine Weile hier und finden es heraus.</geschichte1>
     
   </artposition>
 
@@ -77,11 +71,11 @@ wie ich in ihrem Lichte doch schön glänze,
 so nett es im Museum auch war,
 hier erstrahl ich in meiner Gänze!
  </hinweisGedicht1>
-    <img>Tour 2 - Objekt 4</img>
-    <werkInfos1>Das Kunstwerk mit dem etwas schlichten Namen 6-87/88 stammt vom deutschen Bildhauer Erich Hauser und ragt mitten auf dem Kernerplatz stolze 18 Meter in die Höhe. Damit kann es auf den drei Straßen, welche an dieser Stelle sternförmig aufeinandertreffen, bereits aus einiger Entfernung gesehen werden.</werkInfos1>
-    <werkInfos2>Durch die dynamische Form und Beschaffenheit der Edelstahlplastik erstrahlt diese bei unterschiedlichen Lichtstimmungen in ganz verschiedenen Grautönen und vermittelt dem Betrachter durch seine Gestalt ein Gefühl immaterieller Leichtigkeit.</werkInfos2>
-    <geschichte1>Also echt, dieses Mal müssen wir ja nicht mal groß suchen! Stolzer hätte sich das Kunstwerk 6-87/88 wohl kaum präsentieren können. Tarnung liegt halt doch nicht jedem! Nun gut, dann lass uns dieses Werk mitnehmen und zurück ins Museum schaffen. Wie bitte?! Du weißt nicht, wie du es transportieren sollst?</geschichte1>
-    <geschichte2>Für was habe ich dich denn dann überhaupt dabei?! Und ich kann dir mit meinen beiden kümmerlichen Flügeln wohl auch kaum helfen! Herrje, dann lassen wir das Werk wohl doch noch eine Weile hier. Zugegeben, irgendwie passt es ja auch ganz gut her, so in die Mitte des Platzes – das hat schon was Majestätisches! Nun denn, dann geht es jetzt wohl auf zum letzten Objekt!</geschichte2>
+    <img>24</img>
+    <werkInfos1>Das Kunstwerk mit dem etwas schlichten Namen 6-87/88 stammt vom deutschen Bildhauer Erich Hauser und ragt mitten auf dem Kernerplatz stolze 18 Meter in die Höhe. Damit kann es auf den drei Straßen, welche an dieser Stelle sternförmig aufeinandertreffen, bereits aus einiger Entfernung gesehen werden.
+    Durch die dynamische Form und Beschaffenheit der Edelstahlplastik erstrahlt diese bei unterschiedlichen Lichtstimmungen in ganz verschiedenen Grautönen und vermittelt dem Betrachter durch seine Gestalt ein Gefühl immaterieller Leichtigkeit.</werkInfos1>
+    <geschichte1>Also echt, dieses Mal müssen wir ja nicht mal groß suchen! Stolzer hätte sich das Kunstwerk 6-87/88 wohl kaum präsentieren können. Tarnung liegt halt doch nicht jedem! Nun gut, dann lass uns dieses Werk mitnehmen und zurück ins Museum schaffen. Wie bitte?! Du weißt nicht, wie du es transportieren sollst?
+    Für was habe ich dich denn dann überhaupt dabei?! Und ich kann dir mit meinen beiden kümmerlichen Flügeln wohl auch kaum helfen! Herrje, dann lassen wir das Werk wohl doch noch eine Weile hier. Zugegeben, irgendwie passt es ja auch ganz gut her, so in die Mitte des Platzes – das hat schon was Majestätisches! Nun denn, dann geht es jetzt wohl auf zum letzten Objekt!</geschichte1>
   </artposition>
 
   <artposition id="crinklyGeo" geoId="5" lat="48.778146" long="9.177988"
@@ -97,11 +91,10 @@ bin kein Freund von rasantem Wandel,
 hier bleib ich stehen aktuell,
 bevor ich weiter handel.
 </hinweisGedicht1>
-    <img>Tour 2 - Objekt 5</img>
-    <werkInfos1>Das vom amerikanischen Künstler Alexander Calder (1898–1976) um 1973 geschaffene Kunstwerk zeichnet sich durch seine immerwährende langsame Bewegung aus, welche stets neue Formen hervorbringt. Durch die verschiedenen Bewegungsachsen kann das Werk somit eine Vielzahl an Gestalten annehmen.</werkInfos1>
-    <werkInfos2>Calders Werke zeichnen sich allgemein durch seine hängenden und beweglichen Figuren aus. Bevor sich Calder der Kunst zuwandte, studierte er Maschinenbau, was in einigen seiner beweglichen Werke deutlich sichtbar wird.</werkInfos2>
-    <geschichte1>So, da wären wir wieder: zurück beim Museum! Und was sehen meine scharfen Augen denn da! Scheint, als wäre auch das Kunstwerk Crinkly avec disque rouge nie weit gekommen! Aber ganz ehrlich, das wundert mich nicht, ist es doch wahrlich kein Fan schneller Bewegungen. Nein, ihm liegt vielmehr der langsame und stetige Wandel, was für uns in diesem Fall wohl ein klarer Vorteil war.</geschichte1>
-    <geschichte2>Weißt du was, wir können es meinetwegen sogar hier draußen stehen lassen. Von hier aus wird es ohnehin nicht weit kommen. Es ist mir fast peinlich, dass es überhaupt entwischen konnte…ich muss beim nächsten Mal echt besser aufpassen. Aber nun weiß ich ja immerhin, an wen ich mich wenden kann, falls mir so etwas noch einmal passiert. Vielen Dank dir an dieser Stelle für deine Hilfe und bis zum nächsten Mal!</geschichte2>
+    <img>25</img>
+    <werkInfos1>Das vom amerikanischen Künstler Alexander Calder (1898–1976) um 1973 geschaffene Kunstwerk zeichnet sich durch seine immerwährende langsame Bewegung aus, welche stets neue Formen hervorbringt. Durch die verschiedenen Bewegungsachsen kann das Werk somit eine Vielzahl an Gestalten annehmen.
+    Calders Werke zeichnen sich allgemein durch seine hängenden und beweglichen Figuren aus. Bevor sich Calder der Kunst zuwandte, studierte er Maschinenbau, was in einigen seiner beweglichen Werke deutlich sichtbar wird.</werkInfos1>
+    <geschichte1>So, da wären wir wieder: zurück beim Museum! Und was sehen meine scharfen Augen denn da! Scheint, als wäre auch das Kunstwerk Crinkly avec disque rouge nie weit gekommen! Aber ganz ehrlich, das wundert mich nicht, ist es doch wahrlich kein Fan schneller Bewegungen. Nein, ihm liegt vielmehr der langsame und stetige Wandel, was für uns in diesem Fall wohl ein klarer Vorteil war. Weißt du was, wir können es meinetwegen sogar hier draußen stehen lassen. Von hier aus wird es ohnehin nicht weit kommen. Es ist mir fast peinlich, dass es überhaupt entwischen konnte…ich muss beim nächsten Mal echt besser aufpassen. Aber nun weiß ich ja immerhin, an wen ich mich wenden kann, falls mir so etwas noch einmal passiert. Vielen Dank dir an dieser Stelle für deine Hilfe und bis zum nächsten Mal!</geschichte1>
   </artposition>
 
 

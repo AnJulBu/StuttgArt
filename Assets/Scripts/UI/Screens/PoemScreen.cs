@@ -9,6 +9,6 @@ public class PoemScreen : MonoBehaviour
     private Text text;
     public void SetContent(Destination destination)
     {
-      //  text.text = destination.Poem;
+        text.text = destination.HintPoem1;
     }
 }

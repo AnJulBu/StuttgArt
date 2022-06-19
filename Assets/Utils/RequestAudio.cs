@@ -11,14 +11,17 @@ public class RequestAudio : MonoBehaviour
     private AudioSource audioSource;
 
 
-    [SerializeField, Tooltip("Todo: geoID must be set according to the current route-point")]
-    private int geoID;
-
-    public int GeoID
+    
+    
+    private Destination destination;
+    /// <summary>
+    ///  Upload to server 
+    /// </summary>
+    public void SetContent(Destination destination)
     {
-        get { return geoID; }
-        set { geoID = value; }
+        this.destination = destination;
     }
+    
 
     public void GetAudio(){
         StartCoroutine(GetAudio_Coroutine());
@@ -27,7 +30,7 @@ public class RequestAudio : MonoBehaviour
     private IEnumerator GetAudio_Coroutine()
     {
 
-        string url = "http://dh-projekte.uni-tuebingen.de/geocaching/require_audio.php?geo_id=" + geoID;
+        string url = "http://dh-projekte.uni-tuebingen.de/geocaching/require_audio.php?geo_id=" + destination.GeoId;
         using (UnityWebRequest request = UnityWebRequest.Get(url))
         {
             yield return request.SendWebRequest();

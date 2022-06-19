@@ -18,10 +18,14 @@ public class SFXUpload : MonoBehaviour
 
     [SerializeField, Tooltip("URL to the upload script")]
     string url = "Server link , The server will provide ！";
-
+    private Destination destination;
     /// <summary>
     ///  Upload to server 
     /// </summary>
+    public void SetContent(Destination destination)
+    {
+        this.destination = destination;
+    }
     public void UploadToServer()
     {
         // Todo: Get the stuff from your code!
@@ -32,7 +36,7 @@ public class SFXUpload : MonoBehaviour
         //File.Copy(Recorder.Recorder.GetRecordedFile(), filePath);
         //onFeedback?.Invoke(filePath);
 
-        string geoID = "3";
+        string geoID = destination.GeoId;
 
         onFeedback?.Invoke("Upload in progress");
         StartCoroutine(UploadVideo(filePath, geoID));

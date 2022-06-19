@@ -8,12 +8,15 @@ public class Screen : MonoBehaviour
     {
         gameObject.SetActive(false);
         screen.gameObject.SetActive(true);
-        /* foreach(Screen s in GameObject.FindObjectsOfType<Screen>(includeInactive:true))
-        {
-            
-                s.gameObject.SetActive(s==screen);
-            
-        }*/
+       
+    }
+    public void ShowScreen1(Screen screen)
+    {
+        gameObject.SetActive(false);
+        screen.gameObject.SetActive(true);
+        
+
+        
     }
 
 }

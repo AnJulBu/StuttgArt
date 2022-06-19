@@ -11,9 +11,9 @@ public class StoryScreen : MonoBehaviour
 
     
     
-    public void SetContent(Tour tour)
+    public void SetContent(Destination destination)
     {
-    //    text.text = tour.;
+        text.text = destination.Story1;
         
     }
 }
