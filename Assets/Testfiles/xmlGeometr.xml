@@ -1,7 +1,12 @@
 <tour id="Tour1">
  <!--wohin Tourbeschreibung?-->
  <!--wohin Einführungstext IN die Tourgeschichte?-->
-  <einführungGeschichte>Wir starten in die geometrische Tour.</einführungGeschichte> 
+  <einführungGeschichte>Huch, was ist denn jetzt passiert? 
+
+Da hat unser lieber Hugo, die wachsame Eule, welche sonst alles im Blick hat und darauf achtet, dass sämtliche Kunstwerke dort sind, wo sie hingehören, einmal nicht richtig aufgepasst und SCHWUPPS – entkommen eben einmal fünf beliebte Werke nachts aus dem Kunstmuseum und fliehen in die Dunkelheit der Stuttgarter Innenstadt!
+Aber keine Sorge: Weit können sie noch nicht sein! Du machst dich also mit Hugo zusammen auf, die geflohenen Kunstwerke ausfindig zu machen und herauszufinden, wo sie sich niedergelassen haben. 
+
+Doch glaube nicht, dass es einfach wird! Einige der Objekte sind wahre Meister der Tarnung…</einführungGeschichte>
 
   <artposition id="polylitGeo" geoId="1" lat="48.778443" long="9.177146"
     tourId="1/5">   

@@ -2,7 +2,12 @@
  <!--wohin Tourbeschreibung?-->
  <!--wohin Einführungstext IN die Tourgeschichte?-->
 <!--+"\n"+-->
- <einführungGeschichte>Wir starten ins Olymp.</einführungGeschichte> 
+ <einführungGeschichte>Schön, dass du dich für die Tour zum Olymp entschieden hast! Wander auf den Spuren der alten Helden und entdecke dabei die Mythen der Antike. Athena, die Göttin der Weisheit, hat dir eines ihrer heiligen Tiere, die Eule Hugo, gesandt, welches dir als Begleiter beistehen soll! Frage Hugo um Rat, falls du Hilfe benötigst!
+ 
+ Du wirst von deinem Handy nun von Station zu Station geleitet, um dort in verschiedenen Prüfungen dein Geschick als Held zu beweisen. Es werden dir sowohl Ungeheuer als auch Vorbilder gegenübertreten, die dich und dein Können fordern werden.
+ 
+ Also, worauf wartest du? Auf ins Abenteuer!
+ </einführungGeschichte>
   <artposition id="polylitOlymp" geoId="6" lat="48.780573" long="9.177242"
     tourId="1/6">   
     <einzeilerKompass>Die Wahrheit hat viele Facetten</einzeilerKompass>

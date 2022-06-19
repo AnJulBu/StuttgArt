@@ -34,7 +34,7 @@ public class XmlReader
             destination.location.Longitude = float.Parse(node.GetAttribute("long"));
             destination.OneLiner = node.SelectSingleNode("einzeilerKompass").InnerText;
             destination.HintPoem1 = node.SelectSingleNode("hinweisGedicht1").InnerText;
-            // destination.hintPoem2 = node.SelectSingleNode("hintPoem2").InnerText;
+            // destination.hintPoem2 = node.SelectSingleNode("hinweisGedicht2").InnerText;
             destination.ArtInfo1 = node.SelectSingleNode("werkInfos1").InnerText;
             // destination.artInfo2 = node.SelectSingleNode("werkInfos2").InnerText;
             destination.Story1 = node.SelectSingleNode("geschichte1").InnerText;
