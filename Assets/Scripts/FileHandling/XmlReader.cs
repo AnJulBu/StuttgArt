@@ -30,8 +30,8 @@ public class XmlReader
             destination.Id = node.GetAttribute("id");
             destination.GeoId = node.GetAttribute("geoId");
             destination.TourId = node.GetAttribute("tourId");
-            destination.location.Latitude = float.Parse(node.GetAttribute("lat"));
-            destination.location.Longitude = float.Parse(node.GetAttribute("long"));
+            destination.location.Latitude = float.Parse(node.GetAttribute("lat"),System.Globalization.CultureInfo.InvariantCulture);
+            destination.location.Longitude = float.Parse(node.GetAttribute("long"),System.Globalization.CultureInfo.InvariantCulture);
             destination.OneLiner = node.SelectSingleNode("einzeilerKompass").InnerText;
             destination.HintPoem1 = node.SelectSingleNode("hinweisGedicht1").InnerText;
             // destination.hintPoem2 = node.SelectSingleNode("hinweisGedicht2").InnerText;

@@ -12,15 +12,15 @@ public class Location
     public Location ToRad()
     {
         Location location = new Location();
-        location.Longitude *= Mathf.Deg2Rad;
-        location.Latitude *= Mathf.Deg2Rad;
+        location.Longitude = Longitude * Mathf.Deg2Rad;
+        location.Latitude = Latitude * Mathf.Deg2Rad;
         return location;
     }
     public Location ToDeg()
     {
         Location location = new Location();
-        location.Longitude *= Mathf.Rad2Deg;
-        location.Latitude *= Mathf.Rad2Deg;
+        location.Longitude = Longitude * Mathf.Rad2Deg;
+        location.Latitude = Latitude * Mathf.Rad2Deg;
         return location;
     }
 }
