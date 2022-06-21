@@ -2,7 +2,7 @@
  <!--wohin Tourbeschreibung?-->
  <!--wohin Einführungstext IN die Tourgeschichte?-->
 <!--+"\n"+-->
- <einführungGeschichte>Schön, dass du dich für die Tour zum Olymp entschieden hast! Wander auf den Spuren der alten Helden und entdecke dabei die Mythen der Antike. Athena, die Göttin der Weisheit, hat dir eines ihrer heiligen Tiere, die Eule Hugo, gesandt, welches dir als Begleiter beistehen soll! Frage Hugo um Rat, falls du Hilfe benötigst!
+ <einführungGeschichte>Schön, dass du dich für die Tour zum Olymp entschieden hast! Wander auf den Spuren der alten Helden und entdecke dabei die Mythen der Antike. Athena, die Göttin der Weisheit, hat dir eines ihrer heiligen Tiere, die Eule Hugo, gesandt, welches dir als Begleiter beistehen soll!
  
  Du wirst von deinem Handy nun von Station zu Station geleitet, um dort in verschiedenen Prüfungen dein Geschick als Held zu beweisen. Es werden dir sowohl Ungeheuer als auch Vorbilder gegenübertreten, die dich und dein Können fordern werden.
  
@@ -103,7 +103,7 @@ Du siehst sie hier mit ihrer kleinen Kanne, aus der nun auch du einen Schluck be
     tourId="6/6">   
     <einzeilerKompass>„Nun bloß keine hastigen Bewegungen!“</einzeilerKompass>
     <hinweisGedicht1>Hmm tut mir leid, hier habe ich leider keinen Tipp für dich!</hinweisGedicht1>
-    <img>Tour 1 - Objekt 6</img>
+    <img>16</img>
     <werkInfos1>Das vom amerikanischen Künstler Alexander Calder (1898–1976) um 1973 geschaffene Kunstwerk zeichnet sich durch seine immerwährende langsame Bewegung aus, welche stets neue Formen hervorbringt. Durch die verschiedenen Bewegungsachsen kann das Werk somit eine Vielzahl an Gestalten annehmen.
 Calders Werke zeichnen sich allgemein durch seine hängenden und beweglichen Figuren aus. Bevor sich Calder der Kunst zuwandte, studierte er Maschinenbau, was in einigen seiner beweglichen Werke deutlich sichtbar wird.</werkInfos1>
     <geschichte1>Du erreichst einen großen Platz, welcher von einer markanten Skulptur eingenommen wird. Die Skulptur scheint sich langsam, aber konstant zu verändern und immerzu in Bewegung zu sein. Damit scheint diese Figur unendlich viele verschiedene Formen und Seiten zu haben; genau wie die Götter! Immerzu in Bewegung zeigen sie uns Menschen immerzu eine neue Facette ihres Wesens, mal gut, mal niederträchtig, mal verzeihend und mal rachsüchtig. Im Hintergrund erstrecken sich die gläsernen weiten Hallen des Olymp. 

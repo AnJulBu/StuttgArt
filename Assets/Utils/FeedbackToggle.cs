@@ -26,10 +26,14 @@ public class FeedbackToggle : MonoBehaviour
     [SerializeField, Tooltip("Gameobject used for the upload feedback.")]
     private GameObject uploadFeedback;
 
+    [SerializeField, Tooltip("Gameobject used for playing a random recording")]
+    private GameObject playRandom;
+
     void Start()
     {
         uploadBtn.GetComponent<SFXUpload>().onFeedback += SetUploadFeedback;
         uploadBtn.GetComponent<SFXUpload>().onUploadCompleted += Reset;
+        
     }
 
     public void ShowPressFeedback()
@@ -68,6 +72,13 @@ public class FeedbackToggle : MonoBehaviour
         recordingFeedback.gameObject.SetActive(false);
         playBtn.SetActive(false);
         uploadBtn.SetActive(false);
+        
+
+    }
+
+    public void ResetUploadFeedback()
+    {
+        uploadFeedback.gameObject.SetActive(false);
     }
 
     public void DeactivateInput()
@@ -75,6 +86,7 @@ public class FeedbackToggle : MonoBehaviour
         recordBtn.GetComponent<KeepPressedButton>().interactable = false;
         playBtn.GetComponent<Button>().interactable = false;
         uploadBtn.GetComponent<Button>().interactable = false;
+        
     }
 
     public void ActivateInput()

@@ -28,7 +28,7 @@ public class SFXUpload : MonoBehaviour
     }
     public void UploadToServer()
     {
-        // Todo: Get the stuff from your code!
+        
         string filePath = Recorder.Recorder.GetRecordedFile();
         //string filePath = Path.Combine(Application.persistentDataPath,"recording.wav") ;
 

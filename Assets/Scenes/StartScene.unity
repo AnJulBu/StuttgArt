@@ -1986,8 +1986,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0.000019073, y: -1113}
-  m_SizeDelta: {x: 935.6314, y: 1848.6812}
+  m_AnchoredPosition: {x: 0.000019073, y: -980.34}
+  m_SizeDelta: {x: 935.6314, y: 1583.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &404342327
 MonoBehaviour:
@@ -3570,7 +3570,7 @@ AudioSource:
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
-  m_PlayOnAwake: 1
+  m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
   Loop: 0
@@ -6104,7 +6104,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Mode
@@ -6112,6 +6112,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Mode
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
@@ -6127,11 +6131,19 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1635453145}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Target
+      value: 
+      objectReference: {fileID: 1635453145}
+    - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_CallState
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_CallState
       value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
@@ -6147,6 +6159,10 @@ PrefabInstance:
       value: Reset
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_MethodName
+      value: ResetUploadFeedback
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_TargetAssemblyTypeName
       value: TourManager, Assembly-CSharp
       objectReference: {fileID: 0}
@@ -6155,11 +6171,19 @@ PrefabInstance:
       value: FeedbackToggle, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_TargetAssemblyTypeName
+      value: FeedbackToggle, Assembly-CSharp
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_BoolArgument
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_BoolArgument
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
@@ -6176,6 +6200,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[2].m_Arguments.m_ObjectArgumentAssemblyTypeName
+      value: UnityEngine.Object, UnityEngine
+      objectReference: {fileID: 0}
+    - target: {fileID: 6581586427758169370, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[3].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
     - target: {fileID: 6581586427758169371, guid: 4cbaad9ff30d8cb46bfe9021ab25827b, type: 3}
@@ -7169,7 +7197,7 @@ GameObject:
   - component: {fileID: 1481445313}
   - component: {fileID: 1481445312}
   m_Layer: 0
-  m_Name: Gedanken
+  m_Name: GedankenTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7713,7 +7741,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!224 &1591380504
 RectTransform:
   m_ObjectHideFlags: 0
@@ -7858,7 +7886,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -39.107056}
+  m_AnchoredPosition: {x: 0, y: -39.107178}
   m_SizeDelta: {x: -264, y: -1033.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1610271581
@@ -7978,6 +8006,7 @@ MonoBehaviour:
   uploadBtn: {fileID: 908214114}
   pressFeedback: {fileID: 792314068}
   uploadFeedback: {fileID: 166045042}
+  playRandom: {fileID: 788254484}
 --- !u!1 &1639562873
 GameObject:
   m_ObjectHideFlags: 0

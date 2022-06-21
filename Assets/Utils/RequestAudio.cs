@@ -1,6 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO;
+using UnityEngine.Events;
 using UnityEngine.Networking;
 using UnityEngine.UI;
 
@@ -10,9 +12,11 @@ public class RequestAudio : MonoBehaviour
     [SerializeField, Tooltip("AudioSource used for playing the audio")]
     private AudioSource audioSource;
 
+    //public UnityEvent playingStarted;
+    //public UnityEvent playingEnded;
 
-    
-    
+
+
     private Destination destination;
     /// <summary>
     ///  Upload to server 
@@ -21,6 +25,7 @@ public class RequestAudio : MonoBehaviour
     {
         this.destination = destination;
     }
+
     
 
     public void GetAudio(){
@@ -69,5 +74,6 @@ public class RequestAudio : MonoBehaviour
     public void playAudio()
     {
         audioSource.Play();
+        
     }
 }
