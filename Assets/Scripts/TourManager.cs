@@ -39,9 +39,9 @@ public class TourManager : MonoBehaviour
     public DestinationEvent onDestinationReached;
     public UnityEvent lastDestinationReached;
     // kompletter Header Test muss auskommentiert werden
-    [Header("Test")]
+    /*[Header("Test")]
     [Range(0,50)]
-    public float testDistance = 50;
+    public float testDistance = 50;*/
     //bis hier
     [Header("Content")]
     [SerializeField]
@@ -87,13 +87,13 @@ public class TourManager : MonoBehaviour
             onSetDestination.Invoke(currentDestination);
         }
         // Check distance to destinations  muss einkommentiert werden
-         //float distance = mapHandler.GetDistance(currentDestination.location);
+         float distance = mapHandler.GetDistance(currentDestination.location);
         //muss auskommentiert werden
-         float distance = testDistance;
+         //float distance = testDistance;
         //bis hier 
         if (distance < destinationRange)
         {   //TestDistance muss auskommentiert werden
-            testDistance = 50;
+            //testDistance = 50;
             // bis hier 
             onDestinationReached.Invoke(currentDestination);
         //    currentDestination = null;
@@ -141,10 +141,10 @@ public class TourManager : MonoBehaviour
     }
 
     // setTest muss auskommentiert werden
-    public void setTest(float value)
+    /*public void setTest(float value)
     {
         testDistance = value;
-    } // bis hier
+    } */// bis hier
     public void setTourAdded()
     {
         this.tourAdded = false;
